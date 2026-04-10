@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Studio Lite</string>
+    <string name="action_new">New</string>
+    <string name="action_open">Open</string>
+    <string name="action_save">Save</string>
+    <string name="action_publish">Publish</string>
+    <string name="action_settings">Settings</string>
+    <string name="explorer_title">Explorer</string>
+    <string name="properties_title">Properties</string>
+    <string name="toolbox_title">Toolbox</string>
+    <string name="output_title">Output</string>
+    <string name="tool_select">Select</string>
+    <string name="tool_move">Move</string>
+    <string name="tool_scale">Scale</string>
+    <string name="tool_rotate">Rotate</string>
+    <string name="tool_play">Play</string>
+    <string name="tool_stop">Stop</string>
+    <string name="insert_part">Part</string>
+    <string name="no_selection">Select an instance</string>
+    <string name="publish_title">Publish to Roblox</string>
+    <string name="api_key_label">Open Cloud API Key</string>
+    <string name="universe_id_label">Universe ID</string>
+    <string name="place_id_label">Place ID</string>
+    <string name="publish_button">Publish to Roblox</string>
+    <string name="settings_title">Settings</string>
+</resources>

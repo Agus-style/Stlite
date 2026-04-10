@@ -1,0 +1,5 @@
+-keep class com.roblox.studiolite.data.model.** { *; }
+-keep class com.roblox.studiolite.api.** { *; }
+-keepattributes *Annotation*
+-dontwarn okhttp3.**
+-dontwarn okio.**
